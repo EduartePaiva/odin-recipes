@@ -8,3 +8,7 @@ This is a basic html project exercise from the odin project
 ### What skills this project will demonstrate?
 
 Git/GitHub knowledge and html knowledge
+
+
+Click below to see the hosted website.  
+https://eduartepaiva.github.io/odin-recipes/
